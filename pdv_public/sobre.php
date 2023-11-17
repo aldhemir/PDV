@@ -99,7 +99,7 @@ if (!isset($_SESSION['autenticado']) || $_SESSION['autenticado'] != 'SIM') {
                                 
                         </div>
                         <div class="px-4 mt-5">
-                            <p>Desenvolvido por Flávio Oliveira</p>
+                            <p>Desenvolvido por Aldhemir.Macedo</p>
 
                             
                                 <a style="color: #3b5998;"  role="button" href="https://www.linkedin.com/in/fladoliveira"

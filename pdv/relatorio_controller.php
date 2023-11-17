@@ -180,7 +180,7 @@ if ($tipo_de_relatorios == "rel_clientes" || $tipo_de_relatorios == "rel_fornece
         <tr>
             <td width="33%">{DATE d/m/Y}</td>
             <td width="33%" align="center">{PAGENO}/{nbpg}</td>
-            <td width="33%" style="text-align: right;">Hórus PDV - por Flávio Oliveira</td>
+            <td width="33%" style="text-align: right;">Hórus PDV - por Aldhemir.Macedo</td>
         </tr>
     </table>');
 
