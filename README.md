@@ -47,7 +47,6 @@ senha: usuarioteste
 ![Login](https://github.com/aldhemir/pdv/blob/main/screen/login.png)
 ![Registrar](https://github.com/aldhemir/pdv/blob/main/screen/registrar.png)
 ![MCadastros](https://github.com/aldhemir/pdv/blob/main/screen/menu_cadastros.png)
-![HistoricoVenda](https://github.com/aldhemir/pdv/blob/main/screen/relatorio_historico_venda.png)
 ![MenuRelatorios](https://github.com/aldhemir/pdv/blob/main/screen/menu_relatorios.png)
 ![PerfilUsuario](https://github.com/aldhemir/pdv/blob/main/screen/perfil_usuario.png)
 ![Venda](https://github.com/aldhemir/pdv/blob/main/screen/tela_venda.png)
