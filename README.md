@@ -54,7 +54,6 @@ senha: usuarioteste
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/fladoliveira/
-[product-screenshot]: https://raw.githubusercontent.com/oliveiradeflavio/horus_pdv/main/screen/dashboard.png
+[linkedin-url]: https://www.linkedin.com/in/fladoliveira/](https://www.linkedin.com/in/aldhemir-macedo-2076a8170/
+
 # PDV
