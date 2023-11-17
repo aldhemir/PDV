@@ -1,8 +1,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
-![GitHub forks](https://img.shields.io/github/forks/oliveiradeflavio/horus_pdv?style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/oliveiradeflavio?style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/oliveiradeflavio?style=for-the-badge)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/oliveiradeflavio/horus_pdv/blob/main/LICENSE)
+![GitHub forks](https://img.shields.io/github/forks/aldhemir/pdv?style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/aldhemir?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/aldhemir?style=for-the-badge)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/aldhemir/pdv/blob/main/LICENSE)
 
 
 <h3 align="center">SISTEMA DE VENDAS - HÓRUS PDV</h3>
@@ -42,13 +42,13 @@ login: usuarioteste<br>
 senha: usuarioteste
 
 ![Login](https://github.com/aldhemir/pdv/blob/main/screen/login.png)
-![Registrar](https://github.com/aldhemir/horus_pdv/blob/main/screen/registrar.png)
-![MCadastros](https://github.com/aldhemir/horus_pdv/blob/main/screen/menu_cadastros.png)
-![HistoricoVenda](https://github.com/aldhemir/horus_pdv/blob/main/screen/relatorio_historico_venda.png)
-![MenuRelatorios](https://github.com/aldhemir/horus_pdv/blob/main/screen/menu_relatorios.png)
-![PerfilUsuario](https://github.com/aldhemir/horus_pdv/blob/main/screen/perfil_usuario.png)
-![Venda](https://github.com/aldhemir/horus_pdv/blob/main/screen/tela_venda.png)
-![Configuracoes](https://github.com/aldhemir/horus_pdv/blob/main/screen/configuracoes.png)
+![Registrar](https://github.com/aldhemir/pdv/blob/main/screen/registrar.png)
+![MCadastros](https://github.com/aldhemir/pdv/blob/main/screen/menu_cadastros.png)
+![HistoricoVenda](https://github.com/aldhemir/pdv/blob/main/screen/relatorio_historico_venda.png)
+![MenuRelatorios](https://github.com/aldhemir/pdv/blob/main/screen/menu_relatorios.png)
+![PerfilUsuario](https://github.com/aldhemir/pdv/blob/main/screen/perfil_usuario.png)
+![Venda](https://github.com/aldhemir/pdv/blob/main/screen/tela_venda.png)
+![Configuracoes](https://github.com/aldhemir/pdv/blob/main/screen/configuracoes.png)
 
 
 
