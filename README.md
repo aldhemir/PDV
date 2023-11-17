@@ -43,20 +43,18 @@ Cadastre clientes, fornecedores, produtos. Cadastre funcionários e faça suas v
 login: usuarioteste<br>
 senha: usuarioteste
 
-![Login](https://github.com/oliveiradeflavio/horus_pdv/blob/main/screen/login.png)
-![Registrar](https://github.com/oliveiradeflavio/horus_pdv/blob/main/screen/registrar.png)
-![MCadastros](https://github.com/oliveiradeflavio/horus_pdv/blob/main/screen/menu_cadastros.png)
-![HistoricoVenda](https://github.com/oliveiradeflavio/horus_pdv/blob/main/screen/relatorio_historico_venda.png)
-![MenuRelatorios](https://github.com/oliveiradeflavio/horus_pdv/blob/main/screen/menu_relatorios.png)
-![PerfilUsuario](https://github.com/oliveiradeflavio/horus_pdv/blob/main/screen/perfil_usuario.png)
-![Venda](https://github.com/oliveiradeflavio/horus_pdv/blob/main/screen/tela_venda.png)
-![ImpressaoVenda](https://github.com/oliveiradeflavio/horus_pdv/blob/main/screen/impressao_venda.png)
-![Configuracoes](https://github.com/oliveiradeflavio/horus_pdv/blob/main/screen/configuracoes.png)
+![Login](https://github.com/aldhemir/horus_pdv/blob/main/screen/login.png)
+![Registrar](https://github.com/aldhemir/horus_pdv/blob/main/screen/registrar.png)
+![MCadastros](https://github.com/aldhemir/horus_pdv/blob/main/screen/menu_cadastros.png)
+![HistoricoVenda](https://github.com/aldhemir/horus_pdv/blob/main/screen/relatorio_historico_venda.png)
+![MenuRelatorios](https://github.com/aldhemir/horus_pdv/blob/main/screen/menu_relatorios.png)
+![PerfilUsuario](https://github.com/aldhemir/horus_pdv/blob/main/screen/perfil_usuario.png)
+![Venda](https://github.com/aldhemir/horus_pdv/blob/main/screen/tela_venda.png)
+![Configuracoes](https://github.com/aldhemir/horus_pdv/blob/main/screen/configuracoes.png)
 
 <!-- CONTACT -->
 ## Contato
 
-Flávio Oliveira - [LinkedIn](https://www.linkedin.com/in/fladoliveira/)
 
 Link do Projeto: [https://github.com/oliveiradeflavio/horus_pdv](https://github.com/oliveiradeflavio/horus_pdv)
 
