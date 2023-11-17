@@ -39,7 +39,7 @@ Cadastre clientes, fornecedores, produtos. Cadastre funcionários e faça suas v
 <!-- USAGE EXAMPLES -->
 ## Demo
 
-#### Acessar o link para testar na prática: http://horuspdv.epizy.com/
+#### Acessar o link para testar na prática: 
 
 login: usuarioteste<br>
 senha: usuarioteste
