@@ -1,65 +1,55 @@
+<a href="https://www.linkedin.com/in/aldhemir-macedo-2076a8170/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
+<a href="https://www.instagram.com/aldhe_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
+<a href="https://wa.me/5551992045902?text=Ol%C3%A1+vim+atrav%C3%A9s+do+GitHub"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
+
+![GitHub forks](https://img.shields.io/github/forks/aldhemir/pdv?style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/aldhemir?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/aldhemir?style=for-the-badge)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/aldhemir/pdv/blob/main/LICENSE)
 
 
-
-<h3 align="center">SISTEMA DE VENDAS</h3>
-
-### Sobre o Projeto
-
-O Sistema de Ponto de Venda (PDV) é uma solução completa para gestão de vendas e operações comerciais. Ele oferece uma ampla gama de recursos para facilitar o gerenciamento de vendas, clientes, produtos, fornecedores e relatórios. Abaixo estão os principais aspectos e funcionalidades do sistema:
-
-* ##### Cadastro de Cliente, Produto e Fornecedor:
-O sistema permite o cadastro detalhado de clientes, produtos e fornecedores. Para clientes, é possível armazenar informações como nome, endereço, e-mail e telefone entre outras informações. Para produtos, são registrados detalhes como nome, descrição, preço, código de barras e estoque. Para fornecedores, são mantidos dados como nome, contato e informações de pagamento.
-
-* ##### Geração de Relatórios:
-O sistema gera relatórios detalhados em formatos Excel e PDF. Os relatórios são essenciais para uma análise abrangente do negócio e tomada de decisões estratégicas.
-
-* ##### Histórico de Vendas:
-O sistema mantém um histórico completo de todas as vendas realizadas. Isso inclui informações sobre os produtos vendidos, os clientes envolvidos, os valores das transações e as datas das vendas. 
-
-* ##### Tela de Venda:
-A tela de venda é a interface principal para realizar transações de vendas. Nesta tela, os usuários podem selecionar produtos, adicionar ao carrinho, aplicar descontos, escolher opções de pagamento e concluir a venda. A interface é intuitiva e fácil de usar, agilizando o processo de venda.
-
-* ##### Autenticação e Segurança:
-O sistema inclui uma tela de login segura para acesso aos usuários autorizados. Além disso, oferece funcionalidades de recuperação de senha para garantir o acesso contínuo aos usuários. 
-
-* ##### Configurações e Gerenciamento de Contas de Usuário:
-As configurações do sistema permitem o gerenciamento de contas de usuário, incluindo a criação, edição e exclusão de contas. Os administradores podem atribuir diferentes níveis de permissão aos usuários para controlar o acesso às funcionalidades do sistema. Além disso, os usuários têm a capacidade de editar seus perfis para manter informações pessoais atualizadas.
-
-* ##### Licenciamento:
-O sistema possui um sistema de licenciamento para garantir o uso adequado do software. 
+<h3 align="center">SISTEMA DE VENDAS - HÓRUS PDV</h3>
 
 
-#### Construído com
+<!-- ABOUT THE PROJECT -->
+## Sobre 
+
+[![tela inicial][product-screenshot]]()
+
+
+O Hórus PDV é um sistema de gestão de produtos e serviços que tem como objetivo facilitar o controle de estoque, aumentar a produtividade e a segurança de seus funcionários.
+
+Cadastre clientes, fornecedores, produtos. Cadastre funcionários e faça suas vendas. Gere relatórios de vendas e estoque.
+
+
+### Construído com
 
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
 * [Bootstrap](https://getbootstrap.com/)
 * [PHP](https://www.php.net/)
 * [Javascript](https://www.javascript.com/)
+* [JQuery](https://jquery.com/download/)
 * [MySQL](https://www.mysql.com/)
-* [Mpdf](https://mpdf.github.io/)
-* [PHPMailer](https://github.com/PHPMailer/PHPMailer)
-* [JQuery](https://jquery.com/)
-* [JQuery Mask](https://igorescobar.github.io/jQuery-Mask-Plugin/)
-* [Select2](https://select2.org/)
+* [VIACEP](https://viacep.com.br/)
 * [SweetAlert2](https://sweetalert2.github.io/)
-* [ViaCEP](https://viacep.com.br/)
-* [Font Awesome](https://fontawesome.com/)
-* [Google Fonts](https://fonts.google.com/)
-* [PHPspreadsheet](https://phpspreadsheet.readthedocs.io/en/latest/)
+* [GoogleCharts](https://developers.google.com/chart)
+* [mPDF](https://mpdf.github.io/)
 
+<!-- USAGE EXAMPLES -->
+## Demo
 
-#### Demonstração
+#### Acessar o link para testar na prática: 
 
-Para acessar a demonstração do sistema em funcionamento entre no site
-* [Acessar demonstração]
+login: usuarioteste<br>
+senha: usuarioteste
 
+![Login](https://github.com/aldhemir/pdv/blob/main/screen/login.png)
+![Registrar](https://github.com/aldhemir/pdv/blob/main/screen/registrar.png)
+![MCadastros](https://github.com/aldhemir/pdv/blob/main/screen/menu_cadastros.png)
+![MenuRelatorios](https://github.com/aldhemir/pdv/blob/main/screen/menu_relatorios.png)
+![PerfilUsuario](https://github.com/aldhemir/pdv/blob/main/screen/perfil_usuario.png)
+![Venda](https://github.com/aldhemir/pdv/blob/main/screen/tela_venda.png)
+![Configuracoes](https://github.com/aldhemir/pdv/blob/main/screen/configuracoes.png)
 
-
-
-
-
-
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/fladoliveira/
+# PDV
