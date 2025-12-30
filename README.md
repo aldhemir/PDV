@@ -44,12 +44,13 @@ Cadastre clientes, fornecedores, produtos. Cadastre funcionários e faça suas v
 login: usuarioteste<br>
 senha: usuarioteste
 
-![Login](https://github.com/aldhemir/pdv/blob/main/screen/login.png)
-![Registrar](https://github.com/aldhemir/pdv/blob/main/screen/registrar.png)
-![MCadastros](https://github.com/aldhemir/pdv/blob/main/screen/menu_cadastros.png)
-![MenuRelatorios](https://github.com/aldhemir/pdv/blob/main/screen/menu_relatorios.png)
-![PerfilUsuario](https://github.com/aldhemir/pdv/blob/main/screen/perfil_usuario.png)
-![Venda](https://github.com/aldhemir/pdv/blob/main/screen/tela_venda.png)
-![Configuracoes](https://github.com/aldhemir/pdv/blob/main/screen/configuracoes.png)
+![Login](https://github.com/aldhemir/pdv/tree/main/img/hpdv-img4.png)
+![RecuperarSenha](https://github.com/aldhemir/pdv/tree/main/img/hpdv-img3.png)
+![Menu](https://github.com/aldhemir/pdv/tree/main/img/hpdv-img.png)
+![Menu](https://github.com/aldhemir/pdv/tree/main/img/hpdv-img5.png)
+![AddUsers](https://github.com/aldhemir/pdv/tree/main/img/hpdv-img6.png)
+![AddProdutos](https://github.com/aldhemir/pdv/tree/main/img/telacadastroproduto.png)
+![Venda](https://github.com/aldhemir/pdv/tree/main/img/telavendaproduto.png)
+![Pagamento](https://github.com/aldhemir/pdv/tree/main/img/telavendapagamento.png)
 
 # PDV
